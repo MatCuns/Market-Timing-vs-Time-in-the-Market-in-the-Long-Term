@@ -1,7 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Under%20Development-orange)
 
-# Market Timing vs Time in the Market
+# Market Timing vs Time in the Market in the Long Term
 
 This project compares different ways of investing **€50,000 over a 20-year horizon**.
 
