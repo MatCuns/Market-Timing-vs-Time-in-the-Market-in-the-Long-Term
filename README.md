@@ -31,4 +31,4 @@ Does market timing really deserve so much overthinking?
 
 Investors often debate if it is better to invest immediately, invest gradually, wait for more favorable market conditions, or remain in cash. This project turns that debate into a reproducible quantitative experiment.
 
-The objective is not to prove that one strategy is always superior. It is to measure how each approach behaves over the selected 20-year period while controlling for capital availability, investment horizon and total contributed capital.
+The objective is not to prove that one strategy is always superior. It is to measure how each approach behaves over the long term while controlling for capital availability, investment horizon and total contributed capital.
