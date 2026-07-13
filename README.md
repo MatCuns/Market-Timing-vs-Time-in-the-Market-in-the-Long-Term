@@ -3,7 +3,7 @@
 
 # Market Timing vs Time in the Market in the Long Term
 
-This project compares different ways of investing **€50,000 over a 20-year horizon**.
+This project compares different ways of investing **€50,000 over a 20-year horizon** and never selling.
 
 Two capital availability scenarios are considered:
 
