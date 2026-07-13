@@ -1,6 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Under%20Development-orange)
-![Analysis](https://img.shields.io/badge/Analysis-Backtesting%20%26%20Risk-green)
 
 # Market Timing vs Time in the Market
 
