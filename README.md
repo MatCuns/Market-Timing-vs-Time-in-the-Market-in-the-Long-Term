@@ -23,12 +23,12 @@ The strategies compared are:
 Every strategy is evaluated using final portfolio value, total return, XIRR, volatility, maximum drawdown, Sharpe ratio, time spent in cash and cash drag.
 
 **Research question:**
-*Is it better to invest immediately, invest gradually, wait for more favorable market conditions, or remain in cash?*
+
 
 ## Why This Project
 
 Does market timing really deserve so much overthinking?
 
-Investors often debate whether they should invest everything immediately, spread purchases over time, wait for a market correction, follow a trend signal or remain in cash. This project turns that debate into a reproducible quantitative experiment.
+Investors often debate if it is better to invest immediately, invest gradually, wait for more favorable market conditions, or remain in cash. This project turns that debate into a reproducible quantitative experiment.
 
 The objective is not to prove that one strategy is always superior. It is to measure how each approach behaves over the selected 20-year period while controlling for capital availability, investment horizon and total contributed capital.
