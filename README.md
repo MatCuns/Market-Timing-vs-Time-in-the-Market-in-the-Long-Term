@@ -18,7 +18,8 @@ The strategies compared are:
 * **Monthly DCA:** invest approximately €208.33 every month.
 * **Daily DCA:** divide the available budget across all trading days.
 * **Buy the Dip:** accumulate cash and invest when the market falls by a predefined percentage from its previous peak.
-* **Moving Average Strategy:** invest only when the market is above its long-term moving average, keeping contributions in cash otherwise.
+* **Buying at All Time High:** invest the full yearly amount at the highest peak of the same year (forward looking and taken as the "worst scenario")
+* **Moving Average Strategy:** invest only when the market is above its long term moving average, keeping contributions in cash otherwise.
 
 Every strategy is evaluated using final portfolio value, total return, XIRR, volatility, maximum drawdown, Sharpe ratio, time spent in cash and cash drag.
 
